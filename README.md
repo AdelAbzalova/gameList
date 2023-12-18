@@ -1,7 +1,7 @@
 # ссылка на netlify:
 https://stately-malabi-2f98d0.netlify.app
 ###
--практиковала reactJs и redux toolkit
+-практиковала reactJs и redux toolkit\
 -попробовала createAsyncThunk
 
 
