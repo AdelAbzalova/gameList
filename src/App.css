@@ -1,0 +1,12 @@
+@media(min-width:768px){
+  .gameData-ava{
+    position:fixed;
+    width:30vw
+
+  }
+}
+
+.mtb-20{
+  margin: 20px 0;
+}
+
